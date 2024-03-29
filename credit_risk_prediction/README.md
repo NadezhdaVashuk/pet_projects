@@ -24,6 +24,6 @@
 
 5. Общий вывод и составление портрета надежного и рискового заемщика.
 
-Использованные библиотеки: *pd, numpy, scipy.stats, statsmodels.stats.weightstats, matplotlib.pyplot, seaborn, plotly, plotly.express*
+Использованные библиотеки: *pandas, numpy, scipy.stats, statsmodels.stats.weightstats, matplotlib.pyplot, seaborn, plotly, plotly.express*
 
 В результате удалось провести исследовательский анализ данных, выявить факторы надежности заемщиков и составить портреты надежного и рискового заемщика.
